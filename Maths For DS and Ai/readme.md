@@ -37,7 +37,7 @@ This repository includes a curated collection of mathematical books essential fo
 ---
 
 #### **Differential Equations Books**  
-1. **Differential Equations with Boundary-Value Problems**  
+1. **A first course in differential Equation 10 edition**  
    - Author: Dennis G. Zill, Warren S. Wright.  
 
 2. **Elementary Differential Equations and Boundary Value Problems**  
