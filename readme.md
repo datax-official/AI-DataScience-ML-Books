@@ -8,7 +8,10 @@ Whether you're a beginner or a professional, you'll find top-quality e-books on:
 - **Mathematics for Data Science**  
 - **Statistics for AI**  
 - **LLMs (Large Language Models)**  
-- **System Design with ML and Data Science**  
+- **System Design with ML and Data Science**
+-  **NLP**
+-  **Generative AI**
+-  **C++ OOP , Python, Databases**  
 
 ### 🚀 Level up your skills and accelerate your journey into AI and Data Science!  
 
