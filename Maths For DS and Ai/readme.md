@@ -7,7 +7,7 @@ This repository includes a curated collection of mathematical books essential fo
 ### Books Included:  
 
 #### **Calculus Books**  
-1. **Calculus: Early Transcendentals**  
+1. **Tehe hitchhikers guide to calculus**  
    - Author: James Stewart.  
 
 2. **Calculus: A Complete Course**  
@@ -22,16 +22,16 @@ This repository includes a curated collection of mathematical books essential fo
 ---
 
 #### **Linear Algebra Books**  
-1. **Linear Algebra and Its Applications**  
+1. **Applied Linear Algebra**  
    - Author: Gilbert Strang.  
 
-2. **Introduction to Linear Algebra**  
+2. **Linear Algebra For Dummies**  
    - Author: Gilbert Strang.  
 
-3. **Matrix Analysis and Applied Linear Algebra**  
+3. **Linear Algebra For Data Science**  
    - Author: Carl D. Meyer.  
 
-4. **Linear Algebra Done Right**  
+4. **Linear Algebra Done Wrong**  
    - Author: Sheldon Axler.  
 
 ---
