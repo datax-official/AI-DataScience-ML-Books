@@ -7,46 +7,46 @@ This repository includes a curated collection of mathematical books essential fo
 ### Books Included:  
 
 #### **Calculus Books**  
-1. **Tehe hitchhikers guide to calculus**  
+1. **Tehe hitchhikers guide to calculus**  (Available in Repository)
    - Author: James Stewart.  
 
-2. **Calculus: A Complete Course**  
+2. **Calculus: A Complete Course**  (Currently Not Available)
    - Author: Robert A. Adams, Christopher Essex.  
 
-3. **Advanced Engineering Mathematics**  
+3. **Advanced Engineering Mathematics**  (Currently Not Available)
    - Author: Erwin Kreyszig.  
 
-4. **Introduction to Calculus and Analysis**  
+4. **Introduction to Calculus and Analysis**  (Currently Not Available)
    - Author: Richard Courant, Fritz John.  
 
 ---
 
 #### **Linear Algebra Books**  
-1. **Applied Linear Algebra**  
+1. **Applied Linear Algebra**  (Available in Repository)
    - Author: Gilbert Strang.  
 
-2. **Linear Algebra For Dummies**  
+2. **Linear Algebra For Dummies**  (Available in Repository)
    - Author: Gilbert Strang.  
 
-3. **Linear Algebra For Data Science**  
+3. **Linear Algebra For Data Science**  (Available in Repository)
    - Author: Carl D. Meyer.  
 
-4. **Linear Algebra Done Wrong**  
+4. **Linear Algebra Done Wrong**  (Available in Repository)
    - Author: Sheldon Axler.  
 
 ---
 
 #### **Differential Equations Books**  
-1. **A first course in differential Equation 10 edition**  
+1. **A first course in differential Equation 10 edition**  (Available in Repository)
    - Author: Dennis G. Zill, Warren S. Wright.  
 
-2. **Elementary Differential Equations and Boundary Value Problems**  
+2. **Elementary Differential Equations and Boundary Value Problems**  (Currently Not Available) 
    - Author: William E. Boyce, Richard C. DiPrima.  
 
-3. **Ordinary Differential Equations**  
+3. **Ordinary Differential Equations**  (Currently Not Available)
    - Author: Morris Tenenbaum, Harry Pollard.  
 
-4. **Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering**  
+4. **Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering** (Currently Not Available) 
    - Author: Steven H. Strogatz.  
 
 ---
